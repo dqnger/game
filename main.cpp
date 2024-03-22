@@ -1,5 +1,5 @@
-#include 
-#include 
+#include <iostream>
+#include <conio.h>
 #include "CScreen.h"
 #include "CGame.h"
 using namespace std;
